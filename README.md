@@ -53,9 +53,9 @@ The global observability and developer debugging market is valued at approximate
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted strictly by GitHub Star count in descending order. Star badges link directly to each repository's stargazers page.*
+*Sorted strictly by GitHub Stars_Count in descending order. Stars_Badges link directly to each repository's stargazers page.*
 
-| Project | Stars | Category | Description |
+| Project | GitHub_Stars | Category | Description |
 |---------|-------|----------|-------------|
 | **[mitmproxy](https://github.com/mitmproxy/mitmproxy)** | [![mitmproxy Stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social&color=white)](https://github.com/mitmproxy/mitmproxy/stargazers) | 🌐 Intercepting HTTP/HTTPS Proxy | **The standard scriptable intercepting proxy for automated traffic manipulation.** Interactive SSL/TLS-capable proxy for HTTP/1, HTTP/2, HTTP/3, and WebSockets. Intercept and modify requests/responses on the fly, save conversations for replay, and use Python scripts to automate changes. |
 | **[Glances](https://github.com/nicolargo/glances)** | [![Glances Stars](https://img.shields.io/github/stars/nicolargo/glances?style=social&color=white)](https://github.com/nicolargo/glances/stargazers) | 🖥️ System & Network Profiler | **Top cross-platform system, process, and network monitoring tool.** Written in Python with an interactive terminal UI and web dashboard. Provides real-time metrics for CPU, memory, network interfaces, I/O disks, containers (Docker/Podman), and processes. |
